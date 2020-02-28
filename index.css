@@ -1,0 +1,25 @@
+.paragraph1 {
+    color:lightblue;
+    text-align:center;
+}
+.image1 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.table1 table, td, th {
+  border: 1px solid black;
+}
+
+.table1 table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table1 th {
+  height: 50px;
+}
+.table1 {
+    margin: 0px auto;
+  }
